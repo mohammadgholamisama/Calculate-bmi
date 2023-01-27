@@ -3,5 +3,3 @@
 html
 css
 jsc
-bts
-sdsd
