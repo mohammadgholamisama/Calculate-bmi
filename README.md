@@ -2,5 +2,4 @@
 
 html
 css
-jsc
-  
+js
